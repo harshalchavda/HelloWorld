@@ -7,5 +7,11 @@
 	<h3>commit 1</h3>
 	
 	<h3>commit 2</h3>
+	
+	<h3>commit 3</h3>
+	<%
+		response.setIntHeader("Refresh", 5);
+	%>
+	
 </body>
 </html>
