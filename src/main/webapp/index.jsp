@@ -1,8 +1,7 @@
 <html>
 <body>
 	<h1>Jenkins Demo Example!</h1>
-	<h2>Harshal Chavda!</h2>
-	<h2>lolz ...!!!</h2>
+	<h2>TatvaSoft - JAVA</h2>
 	
 	<h3>commit 1</h3>
 	
@@ -12,23 +11,6 @@
 	
 	<h3>commit 4</h3>
 	
-	<h3>commit 5</h3>
-	
-	<h3>commit 6</h3>
-	
-	<h3>commit 7</h3>
-	
-	<h3>commit 8</h3>	
-	
-	<h3>commit 9</h3>
-	
-	<h3>commit 786</h3>
-	
-	<h3>commit 786/786</h3>
-	
-	<h3>commit by harshal</h3>
-	
-	<h3>commit by harshal - 19-05-2016</h3>
 	
 	
 	<%
