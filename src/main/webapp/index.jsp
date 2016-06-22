@@ -9,11 +9,6 @@
 	
 	<h3>commit 3</h3>
 	
-	<h3>commit 4</h3>
-	
-	<h3>commit 5</h3>
-	
-	<h3>commit 6</h3>
 	
 	
 	<%
